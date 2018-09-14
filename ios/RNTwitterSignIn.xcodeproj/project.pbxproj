@@ -369,10 +369,12 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/dependencies",
+					"$(SRCROOT)/../../../ios/Twitter/**/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../../React\"",
+					"$(SRCROOT)/../../../ios/Twitter/**/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				OTHER_LDFLAGS = "-ObjC";
@@ -387,10 +389,12 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/dependencies",
+					"$(SRCROOT)/../../../ios/Twitter/**/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../../React\"",
+					"$(SRCROOT)/../../../ios/Twitter/**/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				OTHER_LDFLAGS = "-ObjC";
